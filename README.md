@@ -18,6 +18,11 @@ Related to Image processing and machine vision course module
 |---------|---------|---------|
 |![BrainProtonDensitySlice9](https://github.com/sithija-vihanga/Image-processing-and-machine-vision/assets/116638289/72caaee1-26df-44b0-8256-2290c1a4bff1)|![A02_black](https://github.com/sithija-vihanga/Image-processing-and-machine-vision/assets/116638289/d19ac480-d083-40d7-abf1-f1b65b941035) | ![A02_white](https://github.com/sithija-vihanga/Image-processing-and-machine-vision/assets/116638289/84614738-5f6d-4b78-8fd7-7c2f1908ff09)
 
+## Output Images for task 03
+
+Gamma correction and related histograms for LAB color space
+
+![Figure_1](https://github.com/sithija-vihanga/Image-processing-and-machine-vision/assets/116638289/6c6b8aae-0f28-44f2-85ec-9f400cbfdcbb)
 
  |
 
