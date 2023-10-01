@@ -33,7 +33,7 @@ for sigma in sigma_values:
     for contour in contours:
         if len(contour) >= 10:
             approx = cv2.approxPolyDP(contour, 0.3, closed=True)
-            if 35 < len(approx) < 60:  # filter out contours with no. of points to reduce noise
+            if 5 < len(approx) < 60:  # filter out contours with no. of points to reduce noise
                 (x, y), radius = cv2.minEnclosingCircle(contour)
                 circles.append((int(x), int(y), int(radius)))
 
